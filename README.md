@@ -1,16 +1,8 @@
 # zoom_clone
 
-A new Flutter project.
+Email: ayushsingh2357@gmail.com
+Github: github.com/ayushsingh2357
 
-## Getting Started
+In this p;roject, I am learning to build zoom clone using flutter and
+hope to learn some backend through this project because that's what I am poor at and hope to deploy that for my future apps
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
